@@ -5,7 +5,7 @@
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Adblock Plus Filter List
-! Expires: 3 days (update frequency)
+! Expires: 1 days (update frequency)
 ! Last modified: 2024-04-04T10:01:11+0000
 
 ||19min.bg^
