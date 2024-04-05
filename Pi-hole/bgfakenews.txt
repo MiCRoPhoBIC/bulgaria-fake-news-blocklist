@@ -1,18 +1,23 @@
 [Adblock Plus]
-! Version: 202404040001
+! Version: 202404050001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Adblock Plus Filter List
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-04-04T10:01:11+0000
+! Last modified: 2024-04-05T16:06:36+0000
 
 ||19min.bg^
 ||19min.media^
 ||1den.bg^
+||2i2.eu^
+||24zdrave.bg^
+||2newsbg.com^
 ||30dumi.eu^
 ||4eti.eu^
+||72chasa.com^
+||7lev.com^
 ||7dnibulgaria.bg^
 ||7dnisofia.bg^
 ||7dnisport.bg^
@@ -22,10 +27,12 @@
 ||adrain.bg^
 ||afera.bg^
 ||alarma.bg^
+||alfa.bg^
 ||allbg.eu^
 ||anonybulgaria.wordpress.com^
 ||bairak.bg^
 ||balgari.bg^
+||barikada.info^
 ||bestnews.bg^
 ||bez-cenzura.com^
 ||bez-cenzura.eu^
@@ -33,6 +40,7 @@
 ||bg-sega.eu^
 ||bg-utro.eu^
 ||bg7.eu^
+||bgdnes.bg^
 ||bgjournal.info^
 ||bgkef.com^
 ||bglife.club^
@@ -45,15 +53,19 @@
 ||bgtatko.bg^
 ||bgvest.eu^
 ||big5.bg^
+||biopogled.com^
 ||blife.eu^
 ||blitz.bg^
 ||bnews.bg^
+||bnoshipka.org^
 ||bradva.bg^
 ||breaking.bg^
 ||brutnews.eu^
 ||budnaera.com^
 ||bukvarche.com^
 ||bulgaria24.tv^
+||bulgaria365.eu^
+||bulgariannewspaper.com^
 ||bulmedia.net^
 ||bulpress.top^
 ||bultimes.bg^
@@ -66,15 +78,22 @@
 ||classa.bg^
 ||crime.bg^
 ||dailypress-bg.com^
+||dailystandart.com^
+||darik.news^
 ||debat.bg^
 ||delo.bg^
 ||dnes-24.com^
 ||dnes24.eu^
 ||e-vesti.co.uk^
+||efir.info^
+||energetika-bg.com^
 ||energiensviat.com^
 ||epicenter.bg^
+||epochtimes.bg^
 ||evromedia.bg^
+||fakenews.bg^
 ||glasove.com^
+||godlessera.com^
 ||govoriotkrito.bg^
 ||gradski.bg^
 ||gudelnews.com^
@@ -82,6 +101,7 @@
 ||hipotezi.com^
 ||hotarena.net^
 ||human.bg^
+||infoburgas.com^
 ||informiran.net^
 ||inter-view.info^
 ||interesninews.eu^
@@ -89,6 +109,7 @@
 ||istinata.net^
 ||istinskiistorii.com^
 ||istinskitenovini.com^
+||izumitelno.com^
 ||jenata-vchas.net^
 ||jilo.bg^
 ||join.bg^
@@ -96,6 +117,8 @@
 ||kalvacha.com^
 ||kanal3.bg^
 ||king-of-net.com^
+||kingofnet.net^
+||kla.tv^
 ||klassa.bg^
 ||ko4.bg^
 ||koch.bg^
@@ -120,10 +143,14 @@
 ||mirogled.com^
 ||mister.bg^
 ||monitor.bg^
+||mutrinews.com^
 ||myasto.eu^
 ||mybg.eu^
 ||narod.bg^
+||naroden-glas.eu^
 ||nbox.bg^
+||ndt1.eu^
+||neudobnitebg.com^
 ||news7.eu^
 ||newsbg24.eu^
 ||newsbgcom.eu^
@@ -132,12 +159,15 @@
 ||no-comment.bg^
 ||novaplus.bg^
 ||novden.eu^
+||novetika.com^
 ||novinarbg.com^
 ||novinarbul.com^
 ||novini247.com^
 ||novinite-dnes.eu^
 ||novinite24.eu^
+||novostibg.eu^
 ||novotopoznanie.com^
+||obedineni.com^
 ||onovini.com^
 ||onovini.eu^
 ||onovini.eu^
@@ -145,6 +175,7 @@
 ||paparak.bg^
 ||paralel42.com^
 ||patrioti.net^
+||pazel.eu^
 ||people.bg^
 ||petel.bg^
 ||pik.bg^
@@ -152,36 +183,49 @@
 ||pogled.info^
 ||politikata.net^
 ||politikata.top^
+||portal12.bg^
+||portal-21.com^
+||posoka.org^
 ||pro4eti.eu^
 ||promocode.bg^
 ||provaton.bg^
+||rod-bg.com^
+||rodinabg.com^
 ||rns.bg^
 ||rusiadnes.bg^
 ||rusofili.bg^
+||sanovnik.bg^
 ||show.bg^
 ||skafeto.com^
 ||skandalno.net^
 ||slivensega.wordpress.com^
+||slojno.com^
 ||snaiper-bg.net^
 ||socialni.bg^
 ||sos-bg.eu^
 ||sosnovini.bg^
 ||spekulanti.com^
+||spisaniezora.com^
 ||sportove.info^
 ||sportove.net^
+||strogosekretno.com^
 ||struma.bg^
 ||strumapress.com^
 ||svetovnizagadki.com^
+||svoboden-narod.eu^
+||svobodnabulgaria.eu^
 ||svobodnoslovo.eu^
 ||temi.bg^
 ||tetradka.eu^
 ||themainline.bg^
 ||themainline.top^
+||thesofiatimes.com^
 ||top-novini.eu^
 ||topactualno.com^
 ||topvesti.bg^
 ||trakiaworld.com^
 ||trendynews.bg^
+||trud.bg^
 ||trg.bg^
 ||ufield369.wordpress.com^
 ||uniconbg.com^
@@ -191,7 +235,9 @@
 ||velikabulgaria.eu^
 ||vest.bg^
 ||vestnikataka.bg^
+||vestnikzarya.com^
 ||vestnikzora.com^
+||vijti.com^
 ||xaknews.com^
 ||youcomments.com^
 ||zadkulisite.com^
@@ -199,5 +245,7 @@
 ||zanas.eu^
 ||zasporta.com^
 ||zbox7.eu^
+||zdrave.to^
+||zname365.com^
 ||zona666.com^
 ||zona98.com^
