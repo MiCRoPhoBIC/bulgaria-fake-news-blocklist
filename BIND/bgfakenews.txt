@@ -1,14 +1,14 @@
-! Version: 202404040001
+! Version: 202404050001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Response Policy Zone
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-04-04T10:01:11+0000
+! Last modified: 2024-04-05T10:43:40+0000
 
 $TTL 30
-@ IN SOA rpz.fakenews.local. hostmaster.rpz.fakenews.local. 1712307602 86400 3600 604800 30
+@ IN SOA rpz.fakenews.local. hostmaster.rpz.fakenews.local. 1712334344 86400 3600 604800 30
  NS localhost.
 19min.bg CNAME .
 *.19min.bg CNAME .
@@ -16,10 +16,18 @@ $TTL 30
 *.19min.media CNAME .
 1den.bg CNAME .
 *.1den.bg CNAME .
+2i2.eu CNAME .
+*.2i2.eu CNAME .
+24zdrave.bg CNAME .
+*.24zdrave.bg CNAME .
+2newsbg.com CNAME .
+*.2newsbg.com CNAME .
 30dumi.eu CNAME .
 *.30dumi.eu CNAME .
 4eti.eu CNAME .
 *.4eti.eu CNAME .
+72chasa.com CNAME .
+*.72chasa.com CNAME .
 7dnibulgaria.bg CNAME .
 *.7dnibulgaria.bg CNAME .
 7dnisofia.bg CNAME .
@@ -28,6 +36,8 @@ $TTL 30
 *.7dnisport.bg CNAME .
 7kefa.com CNAME .
 *.7kefa.com CNAME .
+7lev.com CNAME .
+*.7lev.com CNAME .
 about.bg CNAME .
 *.about.bg CNAME .
 action-newsbg.eu CNAME .
@@ -38,6 +48,8 @@ afera.bg CNAME .
 *.afera.bg CNAME .
 alarma.bg CNAME .
 *.alarma.bg CNAME .
+alfa.bg CNAME .
+*.alfa.bg CNAME .
 allbg.eu CNAME .
 *.allbg.eu CNAME .
 anonybulgaria.wordpress.com CNAME .
@@ -46,6 +58,8 @@ bairak.bg CNAME .
 *.bairak.bg CNAME .
 balgari.bg CNAME .
 *.balgari.bg CNAME .
+barikada.info CNAME .
+*.barikada.info CNAME .
 bestnews.bg CNAME .
 *.bestnews.bg CNAME .
 bez-cenzura.com CNAME .
@@ -62,6 +76,8 @@ bg7.eu CNAME .
 *.bg7.eu CNAME .
 bgjournal.info CNAME .
 *.bgjournal.info CNAME .
+bgdnes.bg CNAME .
+*.bgdnes.bg CNAME .
 bgkef.com CNAME .
 *.bgkef.com CNAME .
 bglife.club CNAME .
@@ -84,12 +100,16 @@ bgvest.eu CNAME .
 *.bgvest.eu CNAME .
 big5.bg CNAME .
 *.big5.bg CNAME .
+biopogled.com CNAME .
+*.biopogled.com CNAME .
 blife.eu CNAME .
 *.blife.eu CNAME .
 blitz.bg CNAME .
 *.blitz.bg CNAME .
 bnews.bg CNAME .
 *.bnews.bg CNAME .
+bnoshipka.org CNAME .
+*.bnoshipka.org CNAME .
 bradva.bg CNAME .
 *.bradva.bg CNAME .
 breaking.bg CNAME .
@@ -102,6 +122,10 @@ bukvarche.com CNAME .
 *.bukvarche.com CNAME .
 bulgaria24.tv CNAME .
 *.bulgaria24.tv CNAME .
+bulgaria365.eu CNAME .
+*.bulgaria365.eu CNAME .
+bulgariannewspaper.com CNAME .
+*.bulgariannewspaper.com CNAME .
 bulmedia.net CNAME .
 *.bulmedia.net CNAME .
 bulpress.top CNAME .
@@ -126,6 +150,10 @@ crime.bg CNAME .
 *.crime.bg CNAME .
 dailypress-bg.com CNAME .
 *.dailypress-bg.com CNAME .
+dailystandart.com CNAME .
+*.dailystandart.com CNAME .
+darik.news CNAME .
+*.darik.news CNAME .
 debat.bg CNAME .
 *.debat.bg CNAME .
 delo.bg CNAME .
@@ -136,14 +164,24 @@ dnes24.eu CNAME .
 *.dnes24.eu CNAME .
 e-vesti.co.uk CNAME .
 *.e-vesti.co.uk CNAME .
+efir.info CNAME .
+*.efir.info CNAME .
+energetika-bg.com CNAME .
+*.energetika-bg.com CNAME .
 energiensviat.com CNAME .
 *.energiensviat.com CNAME .
 epicenter.bg CNAME .
 *.epicenter.bg CNAME .
+epochtimes.bg CNAME .
+*.epochtimes.bg CNAME .
 evromedia.bg CNAME .
 *.evromedia.bg CNAME .
+fakenews.bg CNAME .
+*.fakenews.bg CNAME .
 glasove.com CNAME .
 *.glasove.com CNAME .
+godlessera.com CNAME .
+*.godlessera.com CNAME .
 govoriotkrito.bg CNAME .
 *.govoriotkrito.bg CNAME .
 gradski.bg CNAME .
@@ -158,6 +196,8 @@ hotarena.net CNAME .
 *.hotarena.net CNAME .
 human.bg CNAME .
 *.human.bg CNAME .
+infoburgas.com CNAME .
+*.infoburgas.com CNAME .
 informiran.net CNAME .
 *.informiran.net CNAME .
 inter-view.info CNAME .
@@ -172,6 +212,8 @@ istinskiistorii.com CNAME .
 *.istinskiistorii.com CNAME .
 istinskitenovini.com CNAME .
 *.istinskitenovini.com CNAME .
+izumitelno.com CNAME .
+*.izumitelno.com CNAME .
 jenata-vchas.net CNAME .
 *.jenata-vchas.net CNAME .
 jilo.bg CNAME .
@@ -186,6 +228,10 @@ kanal3.bg CNAME .
 *.kanal3.bg CNAME .
 king-of-net.com CNAME .
 *.king-of-net.com CNAME .
+kingofnet.net CNAME .
+*.kingofnet.net CNAME .
+kla.tv CNAME .
+*.kla.tv CNAME .
 klassa.bg CNAME .
 *.klassa.bg CNAME .
 ko4.bg CNAME .
@@ -234,14 +280,22 @@ mister.bg CNAME .
 *.mister.bg CNAME .
 monitor.bg CNAME .
 *.monitor.bg CNAME .
+mutrinews.com CNAME .
+*.mutrinews.com CNAME .
 myasto.eu CNAME .
 *.myasto.eu CNAME .
 mybg.eu CNAME .
 *.mybg.eu CNAME .
 narod.bg CNAME .
 *.narod.bg CNAME .
+naroden-glas.eu CNAME .
+*.naroden-glas.eu CNAME .
 nbox.bg CNAME .
 *.nbox.bg CNAME .
+ndt1.eu CNAME .
+*.ndt1.eu CNAME .
+neudobnitebg.com CNAME .
+*.neudobnitebg.com CNAME .
 news7.eu CNAME .
 *.news7.eu CNAME .
 newsbg24.eu CNAME .
@@ -258,6 +312,8 @@ novaplus.bg CNAME .
 *.novaplus.bg CNAME .
 novden.eu CNAME .
 *.novden.eu CNAME .
+novetika.com CNAME .
+*.novetika.com CNAME .
 novinarbg.com CNAME .
 *.novinarbg.com CNAME .
 novinarbul.com CNAME .
@@ -270,6 +326,8 @@ novinite24.eu CNAME .
 *.novinite24.eu CNAME .
 novotopoznanie.com CNAME .
 *.novotopoznanie.com CNAME .
+obedineni.com CNAME .
+*.obedineni.com CNAME .
 onovini.com CNAME .
 *.onovini.com CNAME .
 onovini.eu CNAME .
@@ -284,6 +342,8 @@ paralel42.com CNAME .
 *.paralel42.com CNAME .
 patrioti.net CNAME .
 *.patrioti.net CNAME .
+pazel.eu CNAME .
+*.pazel.eu CNAME .
 people.bg CNAME .
 *.people.bg CNAME .
 petel.bg CNAME .
@@ -298,6 +358,12 @@ politikata.net CNAME .
 *.politikata.net CNAME .
 politikata.top CNAME .
 *.politikata.top CNAME .
+portal-21.com CNAME .
+*.portal-21.com CNAME .
+portal12.bg CNAME .
+*.portal12.bg CNAME .
+posoka.org CNAME .
+*.posoka.org CNAME .
 pro4eti.eu CNAME .
 *.pro4eti.eu CNAME .
 promocode.bg CNAME .
@@ -306,10 +372,16 @@ provaton.bg CNAME .
 *.provaton.bg CNAME .
 rns.bg CNAME .
 *.rns.bg CNAME .
+rod-bg.com CNAME .
+*.rod-bg.com CNAME .
+rodinabg.com CNAME .
+*.rodinabg.com CNAME .
 rusiadnes.bg CNAME .
 *.rusiadnes.bg CNAME .
 rusofili.bg CNAME .
 *.rusofili.bg CNAME .
+sanovnik.bg CNAME .
+*.sanovnik.bg CNAME .
 show.bg CNAME .
 *.show.bg CNAME .
 skafeto.com CNAME .
@@ -318,6 +390,8 @@ skandalno.net CNAME .
 *.skandalno.net CNAME .
 slivensega.wordpress.com CNAME .
 *.slivensega.wordpress.com CNAME .
+slojno.com CNAME .
+*.slojno.com CNAME .
 snaiper-bg.net CNAME .
 *.snaiper-bg.net CNAME .
 socialni.bg CNAME .
@@ -328,16 +402,24 @@ sosnovini.bg CNAME .
 *.sosnovini.bg CNAME .
 spekulanti.com CNAME .
 *.spekulanti.com CNAME .
+spisaniezora.com CNAME .
+*.spisaniezora.com CNAME .
 sportove.info CNAME .
 *.sportove.info CNAME .
 sportove.net CNAME .
 *.sportove.net CNAME .
+strogosekretno.com CNAME .
+*.strogosekretno.com CNAME .
 struma.bg CNAME .
 *.struma.bg CNAME .
 strumapress.com CNAME .
 *.strumapress.com CNAME .
 svetovnizagadki.com CNAME .
 *.svetovnizagadki.com CNAME .
+svoboden-narod.eu CNAME .
+*.svoboden-narod.eu CNAME .
+svobodnabulgaria.eu CNAME .
+*.svobodnabulgaria.eu CNAME .
 svobodnoslovo.eu CNAME .
 *.svobodnoslovo.eu CNAME .
 temi.bg CNAME .
@@ -348,6 +430,8 @@ themainline.bg CNAME .
 *.themainline.bg CNAME .
 themainline.top CNAME .
 *.themainline.top CNAME .
+thesofiatimes.com CNAME .
+*.thesofiatimes.com CNAME .
 top-novini.eu CNAME .
 *.top-novini.eu CNAME .
 topactualno.com CNAME .
@@ -360,6 +444,8 @@ trendynews.bg CNAME .
 *.trendynews.bg CNAME .
 trg.bg CNAME .
 *.trg.bg CNAME .
+trud.bg CNAME .
+*.trud.bg CNAME .
 ufield369.wordpress.com CNAME .
 *.ufield369.wordpress.com CNAME .
 uniconbg.com CNAME .
@@ -376,8 +462,12 @@ vest.bg CNAME .
 *.vest.bg CNAME .
 vestnikataka.bg CNAME .
 *.vestnikataka.bg CNAME .
+vestnikzarya.com CNAME .
+*.vestnikzarya.com CNAME .
 vestnikzora.com CNAME .
 *.vestnikzora.com CNAME .
+vijti.com CNAME .
+*.vijti.com CNAME .
 xaknews.com CNAME .
 *.xaknews.com CNAME .
 youcomments.com CNAME .
@@ -392,7 +482,11 @@ zasporta.com CNAME .
 *.zasporta.com CNAME .
 zbox7.eu CNAME .
 *.zbox7.eu CNAME .
+zdrave.to CNAME .
+*.zdrave.to CNAME .
 zona666.com CNAME .
 *.zona666.com CNAME .
 zona98.com CNAME .
 *.zona98.com CNAME .
+zname365.com CNAME .
+*.zname365.com CNAME .
