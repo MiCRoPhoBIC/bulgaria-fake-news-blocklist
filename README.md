@@ -15,6 +15,7 @@
     ✅ AdGuard Home
     ✅ BIND (9.10+)
     ✅ Brave browser
+    ✅ DNSCrypt
     ✅ Dnsmasq (2.86+)
     ✅ Pi-hole
     ✅ uBlock Origin
