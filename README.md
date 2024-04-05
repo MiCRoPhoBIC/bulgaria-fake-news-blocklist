@@ -13,7 +13,7 @@
     ✅ AdGuard for iOS
     ✅ AdGuard for Windows
     ✅ AdGuard Home
-    ✅ Bind
+    ✅ BIND (9.10+)
     ✅ Brave browser
     ✅ Dnsmasq (2.86+)
     ✅ Pi-hole
