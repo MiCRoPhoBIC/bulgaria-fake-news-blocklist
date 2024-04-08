@@ -1,11 +1,11 @@
-! Version: 202404050001
+! Version: 202404080001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: DNSMasq ver 2.86 and above
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-04-05T16:07:43+0000
+! Last modified: 2024-04-08T18:09:48+0000
 
 local=/19min.bg/
 local=/19min.media/
@@ -15,6 +15,7 @@ local=/24zdrave.bg/
 local=/2newsbg.com/
 local=/30dumi.eu/
 local=/4eti.eu/
+local=/5gmedia.bg/
 local=/72chasa.com/
 local=/7lev.com/
 local=/7dnibulgaria.bg/
@@ -71,6 +72,7 @@ local=/bultimes.bg/
 local=/bultimes.com/
 local=/bultimes.eu/
 local=/bultimes.info/
+local=/bunt.bg/
 local=/chaspic.com/
 local=/chujdozemec.com/
 local=/class.bg/
@@ -155,6 +157,7 @@ local=/newsbg24.eu/
 local=/newsbgcom.eu/
 local=/newsbp.com/
 local=/newsmaker.bg/
+local=/newspoint.bg/
 local=/no-comment.bg/
 local=/novaplus.bg/
 local=/novden.eu/
@@ -178,6 +181,7 @@ local=/pazel.eu/
 local=/people.bg/
 local=/petel.bg/
 local=/pik.bg/
+local=/plovdivmedia.bg/
 local=/podlupa.bg/
 local=/pogled.info/
 local=/politikata.net/
@@ -193,6 +197,7 @@ local=/rodinabg.com/
 local=/rns.bg/
 local=/rusiadnes.bg/
 local=/rusofili.bg/
+local=/safenews.bg/
 local=/sanovnik.bg/
 local=/show.bg/
 local=/skafeto.com/
@@ -214,6 +219,7 @@ local=/svetovnizagadki.com/
 local=/svoboden-narod.eu/
 local=/svobodnabulgaria.eu/
 local=/svobodnoslovo.eu/
+local=/taran.news/
 local=/temi.bg/
 local=/tetradka.eu/
 local=/themainline.bg/
