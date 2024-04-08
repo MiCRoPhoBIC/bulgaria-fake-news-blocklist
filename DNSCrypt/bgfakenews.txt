@@ -1,11 +1,11 @@
-! Version: 202404050001
+! Version: 202404080001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Domains (wildcards)
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-04-05T16:13:21+0000
+! Last modified: 2024-04-08T19:11:02+0000
 
 *.19min.bg
 *.19min.media
@@ -15,6 +15,7 @@
 *.2newsbg.com
 *.30dumi.eu
 *.4eti.eu
+*.5gmedia.bg
 *.72chasa.com
 *.7lev.com
 *.7dnibulgaria.bg
@@ -71,6 +72,7 @@
 *.bultimes.com
 *.bultimes.eu
 *.bultimes.info
+*.bunt.bg
 *.chaspic.com
 *.chujdozemec.com
 *.class.bg
@@ -155,6 +157,7 @@
 *.newsbgcom.eu
 *.newsbp.com
 *.newsmaker.bg
+*.newspoint.bg
 *.no-comment.bg
 *.novaplus.bg
 *.novden.eu
@@ -178,6 +181,7 @@
 *.people.bg
 *.petel.bg
 *.pik.bg
+*.plovdivmedia.bg
 *.podlupa.bg
 *.pogled.info
 *.politikata.net
@@ -193,6 +197,7 @@
 *.rns.bg
 *.rusiadnes.bg
 *.rusofili.bg
+*.safenews.bg
 *.sanovnik.bg
 *.show.bg
 *.skafeto.com
@@ -214,6 +219,7 @@
 *.svoboden-narod.eu
 *.svobodnabulgaria.eu
 *.svobodnoslovo.eu
+*.taran.news
 *.temi.bg
 *.tetradka.eu
 *.themainline.bg
