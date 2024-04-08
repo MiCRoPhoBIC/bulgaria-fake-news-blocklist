@@ -1,11 +1,11 @@
-! Version: 202404050001
+! Version: 202404080001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Unbound
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-04-05T16:21:41+0000
+! Last modified: 2024-04-08T19:27:22+0000
 
 server:
 local-zone: "19min.bg." always_null
@@ -16,6 +16,7 @@ local-zone: "24zdrave.bg." always_null
 local-zone: "2newsbg.com." always_null
 local-zone: "30dumi.eu." always_null
 local-zone: "4eti.eu." always_null
+local-zone: "5gmedia.bg." always_null
 local-zone: "72chasa.com." always_null
 local-zone: "7lev.com." always_null
 local-zone: "7dnibulgaria.bg." always_null
@@ -72,6 +73,7 @@ local-zone: "bultimes.bg." always_null
 local-zone: "bultimes.com." always_null
 local-zone: "bultimes.eu." always_null
 local-zone: "bultimes.info." always_null
+local-zone: "bunt.bg." always_null
 local-zone: "chaspic.com." always_null
 local-zone: "chujdozemec.com." always_null
 local-zone: "class.bg." always_null
@@ -156,6 +158,7 @@ local-zone: "newsbg24.eu." always_null
 local-zone: "newsbgcom.eu." always_null
 local-zone: "newsbp.com." always_null
 local-zone: "newsmaker.bg." always_null
+local-zone: "newspoint.bg." always_null
 local-zone: "no-comment.bg." always_null
 local-zone: "novaplus.bg." always_null
 local-zone: "novden.eu." always_null
@@ -179,6 +182,7 @@ local-zone: "pazel.eu." always_null
 local-zone: "people.bg." always_null
 local-zone: "petel.bg." always_null
 local-zone: "pik.bg." always_null
+local-zone: "plovdivmedia.bg." always_null
 local-zone: "podlupa.bg." always_null
 local-zone: "pogled.info." always_null
 local-zone: "politikata.net." always_null
@@ -194,6 +198,7 @@ local-zone: "rodinabg.com." always_null
 local-zone: "rns.bg." always_null
 local-zone: "rusiadnes.bg." always_null
 local-zone: "rusofili.bg." always_null
+local-zone: "safenews.bg." always_null
 local-zone: "sanovnik.bg." always_null
 local-zone: "show.bg." always_null
 local-zone: "skafeto.com." always_null
@@ -215,6 +220,7 @@ local-zone: "svetovnizagadki.com." always_null
 local-zone: "svoboden-narod.eu." always_null
 local-zone: "svobodnabulgaria.eu." always_null
 local-zone: "svobodnoslovo.eu." always_null
+local-zone: "taran.news." always_null
 local-zone: "temi.bg." always_null
 local-zone: "tetradka.eu." always_null
 local-zone: "themainline.bg." always_null
