@@ -215,6 +215,7 @@
 ||spisaniezora.com^
 ||sportove.info^
 ||sportove.net^
+||standartnews.com^
 ||strogosekretno.com^
 ||struma.bg^
 ||strumapress.com^
