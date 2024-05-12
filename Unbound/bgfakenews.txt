@@ -1,11 +1,11 @@
-! Version: 202404190001
+! Version: 202405120001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Unbound
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-04-19T13:15:25+0000
+! Last modified: 2024-05-12T12:55:21+0000
 
 server:
 local-zone: "19min.bg." always_null
@@ -215,6 +215,7 @@ local-zone: "spekulanti.com." always_null
 local-zone: "spisaniezora.com." always_null
 local-zone: "sportove.info." always_null
 local-zone: "sportove.net." always_null
+local-zone: "standartnews.com." always_null
 local-zone: "strogosekretno.com." always_null
 local-zone: "struma.bg." always_null
 local-zone: "strumapress.com." always_null
