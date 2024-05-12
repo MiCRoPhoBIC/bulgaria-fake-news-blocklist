@@ -1,11 +1,11 @@
-! Version: 202404190001
+! Version: 202405120001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: DNSMasq ver 2.86 and above
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-04-19T13:24:28+0000
+! Last modified: 2024-05-12T12:53:45+0000
 
 local=/19min.bg/
 local=/19min.media/
@@ -214,6 +214,7 @@ local=/spekulanti.com/
 local=/spisaniezora.com/
 local=/sportove.info/
 local=/sportove.net/
+local=/standartnews.com/
 local=/strogosekretno.com/
 local=/struma.bg/
 local=/strumapress.com/
