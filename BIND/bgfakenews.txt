@@ -1,14 +1,14 @@
-! Version: 202405120001
+! Version: 202405150001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Response Policy Zone
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-05-128T12:51:35+0000
+! Last modified: 2024-05-158T10:31:14+0000
 
 $TTL 30
-@ IN SOA rpz.fakenews.local. hostmaster.rpz.fakenews.local. 1715507510 86400 3600 604800 30
+@ IN SOA rpz.fakenews.local. hostmaster.rpz.fakenews.local. 1715758427 86400 3600 604800 30
  NS localhost.
 19min.bg CNAME .
 *.19min.bg CNAME .
@@ -50,6 +50,8 @@ afera.bg CNAME .
 *.afera.bg CNAME .
 alarma.bg CNAME .
 *.alarma.bg CNAME .
+alarmanews.com CNAME .
+*.alarmanews.com CNAME .
 alfa.bg CNAME .
 *.alfa.bg CNAME .
 allbg.eu CNAME .
