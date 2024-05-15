@@ -1,11 +1,11 @@
-! Version: 202405120001
+! Version: 202405150001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Domains (wildcards)
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-05-12T12:53:21+0000
+! Last modified: 2024-05-15T10:32:15+0000
 
 *.19min.bg
 *.19min.media
@@ -27,6 +27,7 @@
 *.adrain.bg
 *.afera.bg
 *.alarma.bg
+*.alarmanews.com
 *.alfa.bg
 *.allbg.eu
 *.anonybulgaria.wordpress.com
