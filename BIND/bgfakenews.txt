@@ -1,14 +1,14 @@
-! Version: 202405150001
+! Version: 202405210001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Response Policy Zone
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-05-158T10:31:14+0000
+! Last modified: 2024-05-21T02:04:16+0000
 
 $TTL 30
-@ IN SOA rpz.fakenews.local. hostmaster.rpz.fakenews.local. 1715758427 86400 3600 604800 30
+@ IN SOA rpz.fakenews.local. hostmaster.rpz.fakenews.local. 1716246295 86400 3600 604800 30
  NS localhost.
 19min.bg CNAME .
 *.19min.bg CNAME .
@@ -276,6 +276,8 @@ lupa.bg CNAME .
 *.lupa.bg CNAME .
 mall359.com CNAME .
 *.mall359.com CNAME .
+mediamall.info CNAME .
+*.mediamall.info CNAME .
 mejdu-redovete.com CNAME .
 *.mejdu-redovete.com CNAME .
 mignews.info CNAME .
@@ -464,6 +466,8 @@ trendynews.bg CNAME .
 *.trendynews.bg CNAME .
 trg.bg CNAME .
 *.trg.bg CNAME .
+tribune.bg CNAME .
+*.tribune.bg CNAME .
 trud.bg CNAME .
 *.trud.bg CNAME .
 ufield369.wordpress.com CNAME .
