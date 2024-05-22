@@ -1,11 +1,11 @@
-! Version: 202405210001
+! Version: 202405220001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: DNSMasq ver 2.86 and above
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-05-21T01:59:39+0000
+! Last modified: 2024-05-22T14:03:21+0000
 
 local=/19min.bg/
 local=/19min.media/
@@ -86,6 +86,7 @@ local=/debat.bg/
 local=/delo.bg/
 local=/dnes-24.com/
 local=/dnes24.eu/
+local=/dnesplus.bg/
 local=/e-vesti.co.uk/
 local=/efir.info/
 local=/energetika-bg.com/
@@ -134,6 +135,7 @@ local=/lentata.com/
 local=/lifebg.eu/
 local=/lifebg.net/
 local=/lifebg.top/
+local=/lifeonline.bg/
 local=/livemedia.bg/
 local=/ludsport.fun/
 local=/ludsport.net/
@@ -169,6 +171,7 @@ local=/novinarbul.com/
 local=/novini247.com/
 local=/novinite-dnes.eu/
 local=/novinite24.eu/
+local=/novinite.bg/
 local=/novostibg.eu/
 local=/novotopoznanie.com/
 local=/obedineni.com/
@@ -180,8 +183,11 @@ local=/paralel42.com/
 local=/patrioti.net/
 local=/pazel.eu/
 local=/people.bg/
+local=/pero.bg/
 local=/petel.bg/
 local=/pik.bg/
+local=/plovdiv-online.com/
+local=/plovdiv-press.bg/
 local=/plovdivmedia.bg/
 local=/podlupa.bg/
 local=/pogled.eu/
@@ -210,6 +216,7 @@ local=/slivensega.wordpress.com/
 local=/slojno.com/
 local=/snaiper-bg.net/
 local=/socialni.bg/
+local=/sofia.media/
 local=/sos-bg.eu/
 local=/sosnovini.bg/
 local=/spekulanti.com/
@@ -225,6 +232,7 @@ local=/svoboden-narod.eu/
 local=/svobodnabulgaria.eu/
 local=/svobodnoslovo.eu/
 local=/taran.news/
+local=/telegraph.bg/
 local=/temi.bg/
 local=/tetradka.eu/
 local=/themainline.bg/
@@ -260,3 +268,4 @@ local=/zdrave.to/
 local=/zname365.com/
 local=/zona666.com/
 local=/zona98.com/
+local=/zonanews.bg/
