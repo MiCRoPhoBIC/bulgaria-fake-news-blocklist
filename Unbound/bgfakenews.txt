@@ -1,11 +1,11 @@
-! Version: 202406030001
+! Version: 202407040001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Unbound
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-06-03T19:24:03+0000
+! Last modified: 2024-07-04T14:14:25+0000
 
 server:
 local-zone: "19min.bg." always_null
@@ -24,6 +24,7 @@ local-zone: "7dnibulgaria.bg." always_null
 local-zone: "7dnisofia.bg." always_null
 local-zone: "7dnisport.bg." always_null
 local-zone: "7kefa.com." always_null
+local-zone: "a-specto.bg." always_null
 local-zone: "about.bg." always_null
 local-zone: "action-newsbg.eu." always_null
 local-zone: "adrain.bg." always_null
@@ -86,6 +87,7 @@ local-zone: "dailystandart.com." always_null
 local-zone: "darik.news." always_null
 local-zone: "debat.bg." always_null
 local-zone: "delo.bg." always_null
+local-zone: "demokrat.bg." always_null
 local-zone: "dnes-24.com." always_null
 local-zone: "dnes24.eu." always_null
 local-zone: "dnesplus.bg." always_null
@@ -210,6 +212,7 @@ local-zone: "rns.bg." always_null
 local-zone: "rusiadnes.bg." always_null
 local-zone: "rusofili.bg." always_null
 local-zone: "safenews.bg." always_null
+local-zone: "samoistinata.bg." always_null
 local-zone: "sanovnik.bg." always_null
 local-zone: "show.bg." always_null
 local-zone: "skafeto.com." always_null
@@ -250,6 +253,7 @@ local-zone: "trud.bg." always_null
 local-zone: "trg.bg." always_null
 local-zone: "ufield369.wordpress.com." always_null
 local-zone: "uniconbg.com." always_null
+local-zone: "varnanovini.bg." always_null
 local-zone: "vazhno.bg." always_null
 local-zone: "vchas.net." always_null
 local-zone: "vchas.pro." always_null
