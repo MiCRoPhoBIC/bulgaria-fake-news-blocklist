@@ -1,14 +1,14 @@
-! Version: 202406030001
+! Version: 202407040001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Response Policy Zone
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-06-03T19:21:02+0000
+! Last modified: 2024-07-04T14:25:04+0000
 
 $TTL 30
-@ IN SOA rpz.fakenews.local. hostmaster.rpz.fakenews.local. 1717431695 86400 3600 604800 30
+@ IN SOA rpz.fakenews.local. hostmaster.rpz.fakenews.local. 1720092289 86400 3600 604800 30
  NS localhost.
 19min.bg CNAME .
 *.19min.bg CNAME .
@@ -42,6 +42,8 @@ $TTL 30
 *.7kefa.com CNAME .
 7lev.com CNAME .
 *.7lev.com CNAME .
+a-specto.bg CNAME .
+*.a-specto.bg CNAME .
 about.bg CNAME .
 *.about.bg CNAME .
 action-newsbg.eu CNAME .
@@ -166,6 +168,8 @@ debat.bg CNAME .
 *.debat.bg CNAME .
 delo.bg CNAME .
 *.delo.bg CNAME .
+demokrat.bg CNAME .
+*.demokrat.bg CNAME .
 dnes-24.com CNAME .
 *.dnes-24.com CNAME .
 dnes24.eu CNAME .
@@ -412,6 +416,8 @@ rusofili.bg CNAME .
 *.rusofili.bg CNAME .
 safenews.bg CNAME .
 *.safenews.bg CNAME .
+samoistinata.bg CNAME .
+*.samoistinata.bg CNAME .
 sanovnik.bg CNAME .
 *.sanovnik.bg CNAME .
 show.bg CNAME .
@@ -492,6 +498,8 @@ ufield369.wordpress.com CNAME .
 *.ufield369.wordpress.com CNAME .
 uniconbg.com CNAME .
 *.uniconbg.com CNAME .
+varnanovini.bg CNAME .
+*.varnanovini.bg CNAME .
 vazhno.bg CNAME .
 *.vazhno.bg CNAME .
 vchas.net CNAME .
