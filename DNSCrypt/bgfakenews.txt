@@ -1,14 +1,15 @@
-! Version: 202407040001
+! Version: 202410010001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: Domains (wildcards)
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-07-04T14:21:26+0000
+! Last modified: 2024-10-01T14:09:02+0000
 
 *.19min.bg
 *.19min.media
+*.1chas.bg
 *.1den.bg
 *.2i2.eu
 *.24zdrave.bg
@@ -64,6 +65,7 @@
 *.bradva.bg
 *.breaking.bg
 *.brutnews.eu
+*.budilnikbg.com
 *.budnaera.com
 *.bukvarche.com
 *.bulgaria24.tv
@@ -183,6 +185,7 @@
 *.pan.bg
 *.paparak.bg
 *.paralel42.com
+*.parapeta.com
 *.patrioti.net
 *.pazel.eu
 *.people.bg
@@ -224,6 +227,7 @@
 *.sos-bg.eu
 *.sosnovini.bg
 *.spekulanti.com
+*.spisanieexpress.com
 *.spisaniezora.com
 *.sportove.info
 *.sportove.net
@@ -244,6 +248,7 @@
 *.thesofiatimes.com
 *.top-novini.eu
 *.topactualno.com
+*.toppresa.com
 *.topvesti.bg
 *.trakiaworld.com
 *.trendynews.bg
