@@ -1,14 +1,15 @@
-! Version: 202407040001
+! Version: 202410010001
 ! Title: Bulgarian Fakenews, Post-truth, Propaganda, Content Farms, Mushroom websites
 ! Description: List of Bulgarian sites that generate fake, misleading, bullshit content.
 ! Homepage: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist
 ! License: https://github.com/MiCRoPhoBIC/bulgaria-fakenews-blocklist/blob/main/LICENSE
 ! Syntax: DNSMasq ver 2.86 and above
 ! Expires: 1 days (update frequency)
-! Last modified: 2024-07-04T14:18:19+0000
+! Last modified: 2024-10-01T14:05:33+0000
 
 local=/19min.bg/
 local=/19min.media/
+local=/1chas.bg/
 local=/1den.bg/
 local=/2i2.eu/
 local=/24zdrave.bg/
@@ -64,6 +65,7 @@ local=/bnoshipka.org/
 local=/bradva.bg/
 local=/breaking.bg/
 local=/brutnews.eu/
+local=/budilnikbg.com/
 local=/budnaera.com/
 local=/bukvarche.com/
 local=/bulgaria24.tv/
@@ -183,6 +185,7 @@ local=/onovini.eu/
 local=/pan.bg/
 local=/paparak.bg/
 local=/paralel42.com/
+local=/parapeta.com/
 local=/patrioti.net/
 local=/pazel.eu/
 local=/people.bg/
@@ -224,6 +227,7 @@ local=/sofia.media/
 local=/sos-bg.eu/
 local=/sosnovini.bg/
 local=/spekulanti.com/
+local=/spisanieexpress.com/
 local=/spisaniezora.com/
 local=/sportove.info/
 local=/sportove.net/
@@ -244,6 +248,7 @@ local=/themainline.top/
 local=/thesofiatimes.com/
 local=/top-novini.eu/
 local=/topactualno.com/
+local=/toppresa.com/
 local=/topvesti.bg/
 local=/trakiaworld.com/
 local=/trendynews.bg/
